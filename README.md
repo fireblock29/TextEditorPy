@@ -16,3 +16,9 @@ I want to improve it !
 
 >Some bugs ?
 - If you notice that everything doesn't work, please, make me a report
+
+>Changelog
+- 04/10 > I put the code on github (here you are :D)
+
+>To Do List
+- Somethings will appear here, don't worry !
